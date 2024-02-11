@@ -1,6 +1,6 @@
 # Codewars practice
 
-## Sum of a Sequence
+## 01 Sum of a Sequence
 
 ### Description
 
@@ -22,7 +22,7 @@ This is the first kata in the series:
 1. **Sum of a Sequence** (this kata)
 2. [Sum of a Sequence [Hard-Core Version]](https://www.codewars.com/kata/sum-of-a-sequence-hard-core-version/javascript)
 
-## Credit Card Mask
+## 02 Credit Card Mask
 
 ### Description
 
@@ -39,7 +39,7 @@ Your task is to write a function `maskify`, which changes all but the last four 
 - `"Skippy"` should return `"##ippy"`.
 - `"Nananananananananananananananana Batman!"` should return `"####################################man!"`.
 
-## Square Every Digit
+## 03 Square Every Digit
 
 ### Description
 
@@ -58,7 +58,7 @@ Happy Coding!
 - `9119` should return `811181`.
 - `765` should return `493625`.
 
-## Sum of Digits / Digital Root
+## 04 Sum of Digits / Digital Root
 
 ### Description
 
@@ -75,7 +75,7 @@ Given `n`, take the sum of the digits of `n`. If that value has more than one di
 
 - `sequenceSum(1, 5, 3)` should return `5` (1 + 4).
 
-## Highest and Lowest
+## 05 Highest and Lowest
 
 ### Description
 

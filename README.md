@@ -73,8 +73,6 @@ Given `n`, take the sum of the digits of `n`. If that value has more than one di
 - `132189` should return `6` since the first time will get 24 (1 + 3 + 2 + 1 + 8 + 9) and using the same method to get 6 (2 + 4).
 - `493193` should return `6` since the first time will get 29 (4 + 9 + 3 + 1 + 9 + 3) and using the same method for second time to get 11 (2 + 9), and so on the last time will get 2 (1 + 1).
 
-- `sequenceSum(1, 5, 3)` should return `5` (1 + 4).
-
 ## 05 Highest and Lowest
 
 ### Description
